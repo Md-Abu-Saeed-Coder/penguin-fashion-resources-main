@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+.Bebas-Neue {
+  font-family: "Bebas Neue", sans-serif;
+}
+.Bebas-Neue-400 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+}
+.Roboto {
+  font-family: "Roboto", sans-serif;
+}
+.Roboto400{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+.Roboto700{
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+.Roboto900{
+  font-family: "Roboto", sans-serif;
+  font-weight: 900 ;
+}
+
+.Montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.headen{
+  display:none;
+}
